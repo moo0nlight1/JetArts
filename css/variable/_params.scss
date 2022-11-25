@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+// FONTS SETTINGS
+
+$font-primary: 'Roboto';
+
+// Font width
+$fw: (
+  thin: 100,
+  light: 300,
+  regular: 400,
+  medium: 500,
+  bold: 700,
+  black: 800,
+  mold: 900
+);
+
+//Font sizes
+$fs-base-mobile: 14px;
+$fs-base-desktop: 16px;
+
+$fs-xs: .75rem;
+$fs-s: .875rem;
+$fs-base: 1rem;
+$fs-m: 1.125rem;
+$fs-l: 1.25rem;
+$fs-xl: 1.5rem;
+$fs-xxl: 2rem;
+$fs-xxxl: 2.25rem;
+$fs-xxxxl: 2.5rem;
+
+//Line heights
+$lh-base: 1.2;
+$lh-sm: 1.28;
+$lh-lg: 1.65;
+
+//COLOR SETTINGS
+$color-primary-base: #FF7400;
+
+$color-white: #fff;
+
+// BREAKPOINTS
+$breakpoint-sm: 576px;
+$breakpoint-sm-max: 575px;
+$breakpoint-md: 768px;
+$breakpoint-md-max: 767px;
+$breakpoint-lg: 992px;
+$breakpoint-lg-max: 991px;
+$breakpoint-xl: 1200px;
+$breakpoint-xl-max: 1199px;
+$breakpoint-xxl: 1400px;
+
